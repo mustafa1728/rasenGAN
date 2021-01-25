@@ -22,8 +22,7 @@ Upload the dataset you want to train or the pretrained model to your drive and f
 The dataset consists of images of naruto using his favourite jutsu rasengan taken from the net. These images were cropped and resized to 256x256 dimension. The model was then trained in the format as suggested in the official implementation. After about 35-40 hours of training, the generated images started looking realistic. Further training would definitely help improving upon the resolution.
 
 <p align="center">
-    <img src="images/rasen_gif.gif"/>
-  
+    <img src="images/rasen_gif.gif"/> 
   This is a gif visualising the changes in generated rasengans drom the beginning.
 </p>
 
