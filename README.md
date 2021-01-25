@@ -28,6 +28,6 @@ The dataset consists of images of naruto using his favourite jutsu rasengan take
 
 
 <p align="center">
-  <img src="images/reals.png"/ width="49%"> <img src="images/fakes004404.png" width="49%"/>
+  <img src="images/reals.jpg"/ width="49%"> <img src="images/fakes004404.jpg" width="49%"/>
   In the left image are some real images from the dataset. In the right are some generated images.
 </p>
