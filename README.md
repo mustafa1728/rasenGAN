@@ -15,7 +15,9 @@ More details can be found in the [paper](https://arxiv.org/pdf/1812.04948.pdf) a
 
 The training and generating has been done in [Google Colab](https://colab.research.google.com), so no environment setup and installations are required. Simply upload the .ipynb file from the repo to your google drive account and open it via Colab.
 
-Upload the dataset you want to train or the pretrained model to your drive and follow instructions given in the Colab file itself
+Upload the dataset you want to train or the pretrained model to your drive and follow instructions given in the Colab file itself.
+
+Use the model weights from [here](https://drive.google.com/file/d/1d2RHh70XdFFkl3Vy8l9lWWX5vZfRN5bq/view?usp=sharing) and the inception features from [here](https://drive.google.com/file/d/15VZ72phXJ_7lxBtn8aaXdNG-1IZQlJ5U/view?usp=sharing)
 
 ## Results
 
