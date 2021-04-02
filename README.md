@@ -1,6 +1,8 @@
 # rasenGAN
 Training StyleGAN network to generate Narutos using the rasengan
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1huKi8pfdsZPh_AqMpYSRV4VB-0fvv1r7#offline=true&sandboxMode=true)
+
 ## Intro to StyleGAN
 
 The Style Generative Adversarial Network, or StyleGAN for short, is an extension to the GAN architecture that proposes large changes to the generator model, including the use of a mapping network to map points in latent space to an intermediate latent space, the use of the intermediate latent space to control style at each point in the generator model, and the introduction to noise as a source of variation at each point in the generator model.
